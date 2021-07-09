@@ -1,0 +1,96 @@
+<style type="text/css" media="screen">
+.mdlw-container-ExPg6Q {
+	font-size: 14px;
+	padding: 12px;
+	border: 1px solid #dddddd;
+	border-radius: 5px;
+	background-color:#ffffff;
+	
+}
+.mdlw-item-ExPg6Q {
+	display: block;
+	position: relative;
+	padding: 12px 0;
+	overflow: hidden;
+}
+.mdlw-container-ExPg6Q a {
+	color: #1675b6;
+	text-decoration: none;
+	cursor: pointer;
+	outline: 0;
+}
+.mdlw-rating-ExPg6Q {
+	padding-left: 5px;
+}
+.mdlw-star-ExPg6Q {
+	width: 70px;
+	color: #ddd;
+	overflow: hidden;
+	position: relative;
+	display: inline-block;
+	font-family: FontAwesome;
+	font-style: normal;
+	font-weight: normal;
+	top: 4px;
+	line-height: 17px;
+}
+.mdlw-star-ExPg6Q:before {
+	content: "★★★★★";
+}
+.mdlw-star-ExPg6Q .mdlw-fill-ExPg6Q {
+	max-width: 70px;
+	color: #ffd600;
+	position: absolute;
+	overflow: hidden;
+	top: 0;
+	left: 0;
+	-moz-transition: all 300ms ease-out;
+	-o-transition: all 300ms ease-out;
+	-webkit-transition: all 300ms ease-out;
+	transition: all 300ms ease-out;
+}
+.mdlw-star-ExPg6Q .mdlw-fill-ExPg6Q:before {
+	content: "★★★★★";
+}
+.mdlw-header-ExPg6Q {
+	font-size: 17px;
+	margin: 0;
+}
+.mdlw-title-ExPg6Q {
+	font-weight: 600;
+}
+.mdlw-title-ExPg6Q .mdlw-ep-seen {
+	font-weight: normal;
+	padding-left: 3px;
+}
+.mdlw-ctype-ExPg6Q {
+	color: #999;
+}
+.mdlw-status-ExPg6Q {
+}
+.mdlw-cover-ExPg6Q {
+	width:44px;
+	height:61px;
+	background-color: #eee;
+	float: left;
+	margin-right: 10px;
+	display: block;
+}
+.mdlw-cover-ExPg6Q > a {
+	width: 100%;
+	display: block;
+}
+.mdlw-cover-ExPg6Q img {
+	width: 100%;
+	display: block;
+}
+.mdlw-content-ExPg6Q {
+	margin-left: 54px;
+	min-height: 60px;
+}
+.mdlw-time-ExPg6Q {
+	color: inherit;
+	opacity: .6;
+}</style>
+<div id="mdl_widget_ExPg6Q"><div class="mdlw-container-ExPg6Q"><h2 class="mdlw-header-ExPg6Q"><a href="https://mydramalist.com/dramalist/Mrswoobling/watching">Currently Watching</a></h2><div class="mdlw-item-ExPg6Q"><div class="mdlw-cover-ExPg6Q"><a href="https://mydramalist.com/66743-the-day-of-becoming-you?utm_medium=widgets&amp;utm_source=list_updates" title=""><img src="https://i.mydramalist.com/2Pjkd_4t.jpg"></a></div><div class="mdlw-content-ExPg6Q"><div class="mdlw-title-ExPg6Q"><a href="https://mydramalist.com/66743-the-day-of-becoming-you?utm_medium=widgets&amp;utm_source=list_updates" title=""></a></div><div class="mdlw-rating-wrapper-ExPg6Q"><span class="mdlw-star-ExPg6Q"><span class="mdlw-fill-ExPg6Q" style="width: 85%"></span></span><span class="mdlw-rating-ExPg6Q">8.5</span></div><div class="mdlw-status-ExPg6Q"><div class="mdlw-time-ExPg6Q">12 hours ago</div></div></div></div><div class="mdlw-item-ExPg6Q"><div class="mdlw-cover-ExPg6Q"><a href="https://mydramalist.com/54889-mr-perfect-and-miss-almost?utm_medium=widgets&amp;utm_source=list_updates" title="Perfect and Casual"><img src="https://i.mydramalist.com/jgAAw_4t.jpg"></a></div><div class="mdlw-content-ExPg6Q"><div class="mdlw-title-ExPg6Q"><a href="https://mydramalist.com/54889-mr-perfect-and-miss-almost?utm_medium=widgets&amp;utm_source=list_updates" title="Perfect and Casual">Perfect and Casual</a></div><div class="mdlw-rating-wrapper-ExPg6Q"><span class="mdlw-star-ExPg6Q"><span class="mdlw-fill-ExPg6Q" style="width: 84%"></span></span><span class="mdlw-rating-ExPg6Q">8.4</span></div><div class="mdlw-status-ExPg6Q"><div class="mdlw-time-ExPg6Q">Jan 23, 2021</div></div></div></div><div class="mdlw-item-ExPg6Q"><div class="mdlw-cover-ExPg6Q"><a href="https://mydramalist.com/49871-love-is-sweet?utm_medium=widgets&amp;utm_source=list_updates" title="Love is Sweet"><img src="https://i.mydramalist.com/eWDpE_4t.jpg"></a></div><div class="mdlw-content-ExPg6Q"><div class="mdlw-title-ExPg6Q"><a href="https://mydramalist.com/49871-love-is-sweet?utm_medium=widgets&amp;utm_source=list_updates" title="Love is Sweet">Love is Sweet</a></div><div class="mdlw-rating-wrapper-ExPg6Q"><span class="mdlw-star-ExPg6Q"><span class="mdlw-fill-ExPg6Q" style="width: 85%"></span></span><span class="mdlw-rating-ExPg6Q">8.5</span></div><div class="mdlw-status-ExPg6Q"><div class="mdlw-time-ExPg6Q">Jan 3, 2021</div></div></div></div><div class="mdlw-item-ExPg6Q"><div class="mdlw-cover-ExPg6Q"><a href="https://mydramalist.com/30142-it-started-with-a-kiss?utm_medium=widgets&amp;utm_source=list_updates" title="Fall in Love at First Kiss"><img src="https://i.mydramalist.com/nErzWt.jpg"></a></div><div class="mdlw-content-ExPg6Q"><div class="mdlw-title-ExPg6Q"><a href="https://mydramalist.com/30142-it-started-with-a-kiss?utm_medium=widgets&amp;utm_source=list_updates" title="Fall in Love at First Kiss">Fall in Love at First Kiss</a></div><div class="mdlw-rating-wrapper-ExPg6Q"><span class="mdlw-star-ExPg6Q"><span class="mdlw-fill-ExPg6Q" style="width: 80%"></span></span><span class="mdlw-rating-ExPg6Q">8</span></div><div class="mdlw-status-ExPg6Q"><div class="mdlw-time-ExPg6Q">Nov 6, 2020</div></div></div></div><a class="mdlw-btn-ExPg6Q" href="https://mydramalist.com/dramalist/Mrswoobling/watching">See full list »</a></div></div>
+<script src="https://mydramalist.com/widgets/ExPg6Q/list_updates?status=1&header=Currently Watching&limit=6" type="text/javascript" charset="utf-8"></script>
